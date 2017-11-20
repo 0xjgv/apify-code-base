@@ -41,5 +41,5 @@ if (!typeCheck(INPUT_TYPE, input)) {
   throw new Error('Received invalid input');
 }
 ```
-__Keywords:__ _good practice, use-case, input, error handling, ._
+__Keywords:__ _good practice, use-case, input, error handling._
 [Source example.](https://github.com/jancurn/act-analyse-pages/blob/master/main.js)
