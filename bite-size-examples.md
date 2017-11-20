@@ -14,5 +14,5 @@ asyncFunction(item).then(result => accumulator.concat(result))
 ), Promise.resolve([]));
 }
 ```
-[Source](https://github.com/juansgaitan/act-utils/blob/master/executions-merger.js\)
+[Source](https://github.com/juansgaitan/act-utils/blob/master/executions-merger.js)
 ***
