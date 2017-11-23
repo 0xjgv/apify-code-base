@@ -1,5 +1,4 @@
 ## Immutable sequence of promise/s requests.
-
 ```javascript
 /**
 * @arg Array items
