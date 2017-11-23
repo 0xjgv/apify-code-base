@@ -3,7 +3,7 @@ const { typeCheck } = require('type-check');
 
 // Definition of the input
 const INPUT_TYPE = `{
-    message: Maybe String,
+    message: String,
 }`;
 
 Apify.main(async () => {
