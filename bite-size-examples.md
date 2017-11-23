@@ -67,5 +67,6 @@ const Apify = {
 ```
 __Keywords:__ _use-case, methods, api, best practice._
 
+[Official Documentation.](https://www.apify.com/docs/sdk/apify-runtime-js/latest#module-Apify-client)
 [Source.](https://github.com/Apifier/apify-runtime-js/blob/master/src/index.js)
 ***
