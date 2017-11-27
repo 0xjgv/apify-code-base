@@ -7,7 +7,6 @@ const INPUT_TYPE = `{
 }`;
 
 Apify.main(async () => {
-
   // Fetch the input and check it has a valid format
   // You don't need to check the input, but it's a good practice.
   const input = await Apify.getValue('INPUT');
